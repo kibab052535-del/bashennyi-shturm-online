@@ -1,0 +1,10 @@
+{
+  "name": "bashennyi-shturm-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Комнаты 1 на 1 для браузерной игры Башенный штурм",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"},
+  "dependencies": {"express": "^4.21.2", "ws": "^8.18.0"}
+}
